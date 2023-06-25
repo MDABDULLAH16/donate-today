@@ -21,7 +21,7 @@ h1{
 }
 button{
     background-color: #FF5959;
-    padding: 15px 20px;
+    padding: 10px 15px;
     color: white;
     border-radius: 5px;
     border: none;
@@ -90,3 +90,53 @@ button{
  .frame-color{
     background-color: rgba(255, 244, 214, 1);
  }
+ .feild-work{
+   
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   margin: 40px;
+   gap: 40px;
+  
+ }
+ .feild-work img{
+   width: 100%;
+  
+ }
+ .updates{
+   width: 40%;
+   margin: auto;
+ }
+ .input-info{
+   padding: 50px 80px;
+   background-color: #FFF4D6;
+   border-radius: 5px;
+   
+
+ }
+ .info-feild{
+   border: none;
+   background-color: #D9D9D9;
+   border-radius: 5px;
+   padding: 10px 15px;
+   margin-left: 0%;
+   
+      
+}
+footer{
+   text-align: center;
+   color: white;
+   background-color: #0B0D17;
+   padding:10px 20px;
+}
+footer h1{
+   font-family: 'Lobster', cursive;
+   color: #FF5959;
+   margin-top: 20px;
+   margin-bottom: 0;
+
+}
+footer small{
+   margin: 20px;
+}
+ 
